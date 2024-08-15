@@ -1,6 +1,6 @@
-# umu.to
+# portfolio-webpage
 
-Personal portfolio page for Umut Karakulak, using Next.js static exports to deploy on GitHub. I'm not planning to update it very frequently but if I do, you can check the auto generated [changelog](CHANGELOG.md) here.
+Personal portfolio page, using Next.js static exports to deploy on GitHub.
 
 :blush: Feel free to use it but make sure you **remove** my information. And I would appreciate if you can star this repository.
 
