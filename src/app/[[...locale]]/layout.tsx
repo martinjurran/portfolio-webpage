@@ -28,7 +28,7 @@ export async function generateMetadata({
     title: t("Title"),
     description: t("Description"),
     authors: {
-      name: "Umut Karakulak",
+      name: "Martin Jurran",
     },
     keywords: [
       "Software Developer",

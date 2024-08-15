@@ -12,7 +12,7 @@ export default async function Hero({ locale }: { locale: localeKey }) {
       <div className="hero-content flex-col lg:flex-row-reverse">
         <Image
           src="/images/umut.webp"
-          alt="Umut Karakulak"
+          alt="Martin Jurran"
           width={420}
           height={420}
           className="max-w-72 w-full shadow-2xl md:max-w-md mask mask-circle"
@@ -20,7 +20,7 @@ export default async function Hero({ locale }: { locale: localeKey }) {
         />
         <div className="text-center lg:text-start my-auto lg:px-6 xl:px-8">
           <h1 className="text-3xl font-black uppercase md:text-7xl drop-shadow-lg">
-            <span className="text-primary">Umut</span> Karakulak
+            <span className="text-primary">Martin</span> Jurran
           </h1>
           <div className="text-base-content/35 xl:text-end md:text-2xl lg:mx-6">
             {t("Title")}

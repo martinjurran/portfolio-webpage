@@ -6,7 +6,7 @@
     }
   },
   "metadata": {
-    "Title": "Umut Karakulak's Portfolio: Web Development & Machine Learning",
+    "Title": "Martin Jurran's Portfolio: Web Development & Machine Learning",
     "Description": "Someone who is passionate about experimenting with innovative, state of the art technologies. Currently working as a full-stack developer with a touch of machine learning for good measure. Explore my portfolio and feel free to say hi!"
   },
   "home": {
@@ -58,6 +58,8 @@
     },
     "Work": "Work History",
     "work": {
+      "Fernuniversität in Hagen": "Fernuniversität in Hagen",
+      "Akademie für berufliche Bildung": "Akademie für berufliche Bildung",
       "Wevnal Co.,Ltd": "Wevnal Co.,Ltd",
       "Senior Specialist": "Senior Specialist",
       "Wevnal senior specialist work description": "Working as a Senior Specialist on the BX platform BOTCHAN at Wevnal Co., Ltd",
