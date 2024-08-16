@@ -6,7 +6,7 @@ const timelineEvents = [
   {
     name: "Fernuniversität in Hagen",
     location: "Remote",
-    image: "/images/wevnal.webp",
+    image: "/images/fernunihagen_logo.jfif",
     events: [
       {
         title: "Senior Specialist",
@@ -19,12 +19,13 @@ const timelineEvents = [
   {
     name: "Akademie für berufliche Bildung",
     location: "Dresden, Germany",
+    image: "/images/afbb_akademie_fr_berufliche_bildung_ggmbh_logo.jfif",
     events: [
       {
-        title: "Software Developer",
-        dateFrom: new Date("2007-01-01"),
-        dateTo: new Date("2010-01-01"),
-        description: "Freelance work description",
+        title: "Computer Science Export, System Integration",
+        dateFrom: new Date("2016-01-01"),
+        dateTo: new Date("2019-01-01"),
+        description: "Apprenticeship",
       },
     ],
   },
