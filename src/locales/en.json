@@ -25,9 +25,8 @@
     "About": "About Me",
     "Languages": "Languages",
     "languages": {
-      "Turkish": "Turkish (Native)",
-      "English": "English (Professional)",
-      "Japanese": "Japanese (Conversational)"
+      "German": "German (Native)",
+      "English": "English (Fluent)"
     },
     "Skills": "Programming Skills",
     "skills": {
@@ -61,7 +60,13 @@
       "Fernuniversität in Hagen": "Fernuniversität in Hagen",
       "Akademie für berufliche Bildung": "Akademie für berufliche Bildung",
       "IT Specialist": "IT Specialist",
-      "Freelance work description": "Intermittently worked as a freelancer for a wide variety of companies including Microsoft Turkey. Developing mostly windows applications using .NET framework."
+      "Apprenticeship Description": "Apprenticeship Computer Science Expert, System Integration",
+      "Studying Description": "Bachelors degree, Commercial Information Technology",
+      "Present": "today",
+      "Apprentice System Integration": "Apprentice Computer Science Expert, System Integration",
+      "Linde Engineering": "Linde Engineering",
+      "Alaymont": "Alaymont Ltd.",
+      "Software Engineering Intern": "Software Engineering Intern"
     },
     "Education": "Education",
     "education": {

@@ -4,22 +4,9 @@ import { getTranslator } from "@/utils/localization";
 
 const timelineEvents = [
   {
-    name: "Wevnal Co.,Ltd",
-    location: "Tokyo, Japan",
-    image: "/images/wevnal.webp",
-    events: [
-      {
-        title: "Senior Specialist",
-        dateFrom: new Date("2024-05-01"),
-        dateTo: "present" as const,
-        description: "Wevnal senior specialist work description",
-      },
-    ],
-  },
-  {
     name: "DUNKSOFT Co.,Ltd",
-    location: "Tokyo, Japan",
-    image: "/images/dunksoft.webp",
+    location: "Dresden, Germany",
+    image: "/images/linde.jfif",
     events: [
       {
         title: "Full Stack Engineer",
@@ -36,39 +23,27 @@ const timelineEvents = [
     ],
   },
   {
-    name: "obase",
-    location: "Istanbul, Turkey",
-    image: "/images/obase.webp",
+    name: "Alaymont",
+    location: "Bray, Ireland",
+    image: "/images/alaymont.webp",
     events: [
       {
         title: "Software Engineering Intern",
-        dateFrom: new Date("2015-08-01"),
-        dateTo: new Date("2015-11-01"),
-        description: "obase intern description",
+        dateFrom: new Date("2018-05-01"),
+        dateTo: new Date("2018-06-01"),
+        description: "Alaymont intern description",
       },
     ],
   },
   {
-    name: "DUNKSOFT Co.,Ltd",
-    location: "Tokyo, Japan",
-    image: "/images/dunksoft.webp",
+    name: "Linde Engineering",
+    location: "Dresden, Germany",
+    image: "/images/linde.jfif",
     events: [
       {
-        title: "Software Engineering Intern",
-        dateFrom: new Date("2011-09-01"),
-        dateTo: new Date("2011-11-01"),
-        description: "Dunksoft intern description",
-      },
-    ],
-  },
-  {
-    name: "Freelance",
-    location: "Istanbul, Turkey",
-    events: [
-      {
-        title: "Software Developer",
-        dateFrom: new Date("2007-01-01"),
-        dateTo: new Date("2010-01-01"),
+        title: "Apprentice System Integration",
+        dateFrom: new Date("2016-08-01"),
+        dateTo: new Date("2019-06-01"),
         description: "Freelance work description",
       },
     ],

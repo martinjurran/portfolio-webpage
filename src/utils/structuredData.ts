@@ -8,17 +8,17 @@ export const jsonLdProfilePage: WithContext<ProfilePage> = {
   mainEntity: {
     "@id": "#main-author",
     "@type": "Person",
-    name: "UMartin Jurran",
-    familyName: "Karakulak",
-    givenName: "Umut",
-    nationality: "Turkish",
+    name: "Martin Jurran",
+    familyName: "Jurran",
+    givenName: "Martin",
+    nationality: "German",
     image: "https://umu.to/images/umut.webp",
     jobTitle: "Senior Specialist",
-    worksFor: "株式会社wevnal",
-    workLocation: "Tokyo, Japan",
+    worksFor: "Linde Engineering",
+    workLocation: "Dresden, Germany",
     url: "https://umu.to",
     email: "hi@umu.to",
-    knowsLanguage: ["Turkish", "English", "Japanese"],
+    knowsLanguage: ["German", "English"],
     contactPoint: [
       {
         "@type": "ContactPoint",
@@ -55,11 +55,11 @@ export const jsonLdPerson: WithContext<Person> = {
   nationality: "German",
   image: "https://umu.to/images/umut.webp",
   jobTitle: "Senior Specialist",
-  worksFor: "株式会社wevnal",
+  worksFor: "Linde Engineering",
   workLocation: "Tokyo, Japan",
   url: "https://umu.to",
   email: "hi@umu.to",
-  knowsLanguage: ["German", "English", "Japanese"],
+  knowsLanguage: ["German", "English"],
   contactPoint: [
     {
       "@type": "ContactPoint",

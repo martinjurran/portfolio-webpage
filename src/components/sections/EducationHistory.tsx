@@ -10,9 +10,9 @@ const timelineEvents = [
     events: [
       {
         title: "Senior Specialist",
-        dateFrom: new Date("2024-05-01"),
+        dateFrom: new Date("2024-10-01"),
         dateTo: "present" as const,
-        description: "Wevnal senior specialist work description",
+        description: "Studying Description",
       },
     ],
   },
@@ -23,9 +23,9 @@ const timelineEvents = [
     events: [
       {
         title: "Computer Science Export, System Integration",
-        dateFrom: new Date("2016-01-01"),
-        dateTo: new Date("2019-01-01"),
-        description: "Apprenticeship",
+        dateFrom: new Date("2016-08-01"),
+        dateTo: new Date("2019-06-01"),
+        description: "Apprenticeship Description",
       },
     ],
   },
