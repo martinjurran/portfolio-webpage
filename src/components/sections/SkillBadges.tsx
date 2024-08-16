@@ -25,55 +25,11 @@ const skills = [
     icon: "Server" as const,
   },
   {
-    title: "Next.js",
-    icon: "Server" as const,
-  },
-  {
-    title: "React",
+    title: "Vue.js",
     icon: "AppWindow" as const,
   },
   {
-    title: "AWS",
-    icon: "ServerCog" as const,
-  },
-  {
-    title: "Django",
-    icon: "Server" as const,
-  },
-  {
-    title: "Flask",
-    icon: "Server" as const,
-  },
-  {
-    title: "Computer Vision",
-    icon: "BrainCircuit" as const,
-  },
-  {
-    title: "NLP",
-    icon: "BrainCircuit" as const,
-  },
-  {
     title: "Machine Learning",
-    icon: "BrainCircuit" as const,
-  },
-  {
-    title: "AR / VR",
-    icon: "Box" as const,
-  },
-  {
-    title: "NumPy",
-    icon: "Variable" as const,
-  },
-  {
-    title: "Pandas",
-    icon: "TableProperties" as const,
-  },
-  {
-    title: "Tensorflow",
-    icon: "BrainCircuit" as const,
-  },
-  {
-    title: "Keras",
     icon: "BrainCircuit" as const,
   },
   {
@@ -81,24 +37,8 @@ const skills = [
     icon: "AreaChart" as const,
   },
   {
-    title: "Linux",
-    icon: "Computer" as const,
-  },
-  {
     title: "Git",
     icon: "GitBranchPlus" as const,
-  },
-  {
-    title: "Web Design",
-    icon: "DraftingCompass" as const,
-  },
-  {
-    title: "HTML",
-    icon: "FileCode2" as const,
-  },
-  {
-    title: "CSS",
-    icon: "FileCode2" as const,
   },
 ];
 
