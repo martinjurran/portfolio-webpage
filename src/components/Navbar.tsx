@@ -28,7 +28,7 @@ export default function Navbar({ locale, routes }: NavbarProps) {
             </ul>
           </div>
           <a href="#top" className="btn btn-ghost rounded-full text-lg font-semibold">
-            umu.to
+            Martin Jurran
           </a>
         </div>
         <div className="navbar-center ml-10 hidden md:flex">

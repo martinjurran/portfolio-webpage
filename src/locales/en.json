@@ -16,7 +16,7 @@
       "Contact": "Contact"
     },
     "hero": {
-      "Title": "Web Development & Machine Learning",
+      "Title": "Software Engineering & Machine Learning",
       "Description": "  Someone who is passionate about experimenting with innovative, state of the art technologies. Currently working as a full-stack developer with a touch of machine learning for good measure.",
       "Say hello!": "👋 Say hello!",
       "Download CV": "Download CV",
@@ -52,7 +52,9 @@
       "Apprentice System Integration": "Apprentice Computer Science Expert, System Integration",
       "Linde Engineering": "Linde Engineering",
       "Alaymont": "Alaymont Ltd.",
-      "Software Engineering Intern": "Software Engineering Intern"
+      "Software Engineering Intern": "Software Engineering Intern",
+      "Alaymont intern description": "Lorme ipsum",
+      "Apprentice work description": "Lorem ipsum"
     },
     "Education": "Education",
     "education": {

@@ -4,7 +4,7 @@ import { getTranslator } from "@/utils/localization";
 
 const timelineEvents = [
   {
-    name: "DUNKSOFT Co.,Ltd",
+    name: "Linde Engineering",
     location: "Dresden, Germany",
     image: "/images/linde.jfif",
     events: [
@@ -16,7 +16,7 @@ const timelineEvents = [
       },
       {
         title: "Data Scientist",
-        dateFrom: new Date("2017-01-01"),
+        dateFrom: new Date("2019-06-01"),
         dateTo: new Date("2020-01-01"),
         description: "Dunksoft data science work description",
       },
@@ -44,7 +44,7 @@ const timelineEvents = [
         title: "Apprentice System Integration",
         dateFrom: new Date("2016-08-01"),
         dateTo: new Date("2019-06-01"),
-        description: "Freelance work description",
+        description: "Apprentice work description",
       },
     ],
   },

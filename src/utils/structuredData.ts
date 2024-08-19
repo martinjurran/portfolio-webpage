@@ -35,7 +35,11 @@ export const jsonLdProfilePage: WithContext<ProfilePage> = {
     alumniOf: [
       {
         "@type": "EducationalOrganization",
-        name: "Yeditepe University",
+        name: "Fernuniversität Hagen",
+      },
+      {
+        "@type": "EducationalOrganization",
+        name: "Akademie für berufliche Bildung",
       },
     ],
     award: [
@@ -76,7 +80,11 @@ export const jsonLdPerson: WithContext<Person> = {
   alumniOf: [
     {
       "@type": "EducationalOrganization",
-      name: "Yeditepe University",
+      name: "Fernuniversität Hagen",
+    },
+    {
+      "@type": "EducationalOrganization",
+      name: "Akademie für berufliche Bildung",
     },
   ],
   award: [

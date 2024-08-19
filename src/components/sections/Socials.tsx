@@ -2,24 +2,19 @@ import { ContactBadge } from "@/components";
 
 const links = [
   {
-    title: "GitHub",
-    icon: "Github" as const,
-    url: "https://github.com/umutto",
-  },
-  {
     title: "LinkedIn",
     icon: "Linkedin" as const,
-    url: "https://www.linkedin.com/in/umutto/",
+    url: "https://www.linkedin.com/in/martin-jurran/",
+  },
+  {
+    title: "GitHub",
+    icon: "Github" as const,
+    url: "https://github.com/martinjurran",
   },
   {
     title: "Medium",
     icon: "Newspaper" as const,
-    url: "https://www.linkedin.com/in/umutto/",
-  },
-  {
-    title: "Email",
-    icon: "MailOpen" as const,
-    url: "mailto:hi@umu.to",
+    url: "https://medium.com/@martin-jurran",
   },
 ];
 
