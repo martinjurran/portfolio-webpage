@@ -60,7 +60,7 @@ export const jsonLdPerson: WithContext<Person> = {
   image: "https://umu.to/images/umut.webp",
   jobTitle: "Senior Specialist",
   worksFor: "Linde Engineering",
-  workLocation: "Tokyo, Japan",
+  workLocation: "Dresden, Germany",
   url: "https://umu.to",
   email: "hi@umu.to",
   knowsLanguage: ["German", "English"],

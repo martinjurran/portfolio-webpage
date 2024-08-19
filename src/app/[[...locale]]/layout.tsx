@@ -45,8 +45,8 @@ export async function generateMetadata({
       "Typescript",
       "Open Source",
       "Portfolio",
-      "Tokyo",
-      "Japan",
+      "Dresden",
+      "Germany",
     ],
     openGraph: {
       title: t("Title"),

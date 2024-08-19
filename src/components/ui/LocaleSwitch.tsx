@@ -9,11 +9,11 @@ export default async function LocaleSwitch({ locale }: { locale: localeKey }) {
   return (
     <Link
       className="btn btn-neutral btn-outline rounded-full"
-      href={locale === "en" ? "/ja" : "/"}
+      href={locale === "en" ? "/de" : "/"}
       scroll={false}
     >
       <Icon name="Globe" className="size-5" />
-      {locale === "en" ? t("ja") : t("en")}
+      {locale === "en" ? t("de") : t("en")}
     </Link>
   );
 }
