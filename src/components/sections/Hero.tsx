@@ -28,17 +28,17 @@ export default async function Hero({ locale }: { locale: localeKey }) {
           <p className="py-6 lg:max-w-xl lg:mx-4 xl:mx-6">{t("Description")}</p>
           <div className="flex gap-2 justify-center flex-wrap md:flex-nowrap">
             <a
-              href="#contact"
+              href="https://www.linkedin.com/in/martin-jurran"
               className="btn btn-neutral md:btn-lg rounded-full shadow-md btn-wide"
             >
-              {t("Say hello!")}
+              <Icon name="Linkedin" /> LinkedIn
             </a>
             <a
-              href={`/files/${t("CV file")}`}
+              href="https://github.com/martinjurran"
               className="btn btn-outline md:btn-lg rounded-full font-light btn-wide"
               download
             >
-              <Icon name="Download" /> {t("Download CV")}
+              <Icon name="Github" /> GitHub
             </a>
           </div>
         </div>

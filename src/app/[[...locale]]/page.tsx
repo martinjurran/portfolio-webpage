@@ -46,9 +46,6 @@ export default async function Home({ params }: { params?: { locale: localeKey } 
           <SectionHeader>{t("Projects")}</SectionHeader>
           <Projects locale={locale} />
           <Divider />
-          <SectionHeader>{t("Awards")}</SectionHeader>
-          <Awards locale={locale} />
-          <Divider />
         </section>
         <section
           id="contact"
