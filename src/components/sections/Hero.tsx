@@ -11,7 +11,7 @@ export default async function Hero({ locale }: { locale: localeKey }) {
     <section className="hero py-10 flex justify-center overflow-hidden border-b">
       <div className="hero-content flex-col lg:flex-row-reverse">
         <Image
-          src="/images/umut.webp"
+          src="/images/martin.jfif"
           alt="Martin Jurran"
           width={420}
           height={420}
