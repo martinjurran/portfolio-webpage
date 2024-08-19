@@ -29,7 +29,7 @@ export default async function Hero({ locale }: { locale: localeKey }) {
           <div className="flex gap-2 justify-center flex-wrap md:flex-nowrap">
             <a
               href="https://www.linkedin.com/in/martin-jurran"
-              className="btn btn-neutral md:btn-lg rounded-full shadow-md btn-wide"
+              className="btn btn-neutral bg-linkedin md:btn-lg rounded-full shadow-md btn-wide"
             >
               <Icon name="Linkedin" /> LinkedIn
             </a>
