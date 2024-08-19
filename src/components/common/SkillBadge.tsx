@@ -9,7 +9,7 @@ export type SkillBadgeProps = {
 
 export default function SkillBadge({ title, icon, className }: SkillBadgeProps) {
   return (
-    <div className={twMerge("badge md:badge-lg p-5 border-b-accent text-sm", className)}>
+    <div className={twMerge("badge md:badge-lg p-5 text-sm", className)}>
       {icon && <Icon name={icon} />}
       <span className="font-semibold">{title}</span>
     </div>
