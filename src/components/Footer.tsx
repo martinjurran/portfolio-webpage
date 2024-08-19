@@ -9,7 +9,7 @@ export default function Footer() {
           <span>
             Check out the code on
             <Link
-              href="https://github.com/umutto/umutto.github.io"
+              href="https://github.com/martinjurran/portfolio-webpage"
               className="link inline-flex items-center ml-1"
               rel="noreferrer"
             >

@@ -27,8 +27,7 @@ export const jsonLdProfilePage: WithContext<ProfilePage> = {
     ],
     sameAs: [
       "https://www.linkedin.com/in/umutto/",
-      "https://github.com/umutto",
-      "https://stackoverflow.com/users/826970/umutto",
+      "https://github.com/martinjurran",
     ],
     description:
       "Someone who is passionate about experimenting with innovative, state of the art technologies. Currently working as a full-stack developer with a touch of machine learning for good measure.",
@@ -57,7 +56,7 @@ export const jsonLdPerson: WithContext<Person> = {
   familyName: "Jurran",
   givenName: "Martin",
   nationality: "German",
-  image: "https://umu.to/images/umut.webp",
+  image: "https://umu.to/images/martin.jfif",
   jobTitle: "Senior Specialist",
   worksFor: "Linde Engineering",
   workLocation: "Dresden, Germany",
@@ -72,8 +71,7 @@ export const jsonLdPerson: WithContext<Person> = {
   ],
   sameAs: [
     "https://www.linkedin.com/in/umutto/",
-    "https://github.com/umutto",
-    "https://stackoverflow.com/users/826970/umutto",
+    "https://github.com/martinjurran",
   ],
   description:
     "Someone who is passionate about experimenting with innovative, state of the art technologies. Currently working as a full-stack developer with a touch of machine learning for good measure.",
