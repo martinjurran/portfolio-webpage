@@ -18,7 +18,7 @@ const config: Config = {
           error: "#E81413",
         },
       },
-      "night",
+      "light",
     ], // false: only light + dark | true: all themes | array: specific themes like this ["light", "dark", "cupcake"]
     darkTheme: "night", // name of one of the included themes for dark mode
     base: true, // applies background color and foreground color for root element by default

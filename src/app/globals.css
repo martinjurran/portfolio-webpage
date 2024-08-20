@@ -14,6 +14,10 @@ body {
   background:#0a66c2;
 }
 
+.btn-style-sayhello {
+  font-weight:600;
+}
+
 .rounded-menubar {
   border-radius:1rem;
   outline: 1px solid gray;

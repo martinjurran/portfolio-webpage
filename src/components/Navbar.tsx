@@ -47,7 +47,7 @@ export default function Navbar({ locale, routes }: NavbarProps) {
 
         <div className="navbar-end h-10 scale-75 gap-3">
         <a
-              className="btn btn-neutral md:btn-lg rounded-full btn-wide"
+              className="btn btn-style-sayhello rounded-lg btn-neutral md:btn-lg"
             >
               Say Hello
             </a>
