@@ -3,6 +3,11 @@
     transform: translate3d(0, 0, 1px) rotate(360deg);
   }
 }
+
+.hero {
+  background: radial-gradient(farthest-corner at 66% 0,#fff 0,#c8f9d4 66%),linear-gradient(#c8f9d4,#5fee83 200%) !important;
+}
+
 .animated-background {
   position: fixed;
   width: 100vw;
