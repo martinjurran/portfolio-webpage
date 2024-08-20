@@ -31,14 +31,14 @@ export default async function Hero({ locale }: { locale: localeKey }) {
               href="https://www.linkedin.com/in/martin-jurran"
               className="btn btn-neutral bg-linkedin md:btn-lg rounded-full shadow-md btn-wide"
             >
-              <Icon name="Linkedin" /> LinkedIn
+              <Icon name="Linkedin" /> LinkedIn <Icon name="ExternalLink" />
             </a>
             <a
               href="https://github.com/martinjurran"
               className="btn btn-outline md:btn-lg rounded-full font-light btn-wide"
               download
             >
-              <Icon name="Github" /> GitHub
+              <Icon name="Github" /> GitHub <Icon name="ExternalLink" />
             </a>
           </div>
         </div>

@@ -22,6 +22,7 @@ export default function ContactBadge({ title, icon, url, className }: ContactBad
     >
       <Icon name={icon} className="size-6" />
       {title}
+      <Icon name="ExternalLink" />
     </Link>
   );
 }
