@@ -6,7 +6,7 @@ type NavbarProps = { locale: localeKey; routes: { name: string; href: string }[]
 export default function Navbar({ locale, routes }: NavbarProps) {
   return (
     <div className="sticky top-0 z-50 flex justify-center pb-4 md:py-4">
-      <div className="navbar w-full md:rounded-full bg-base-100/90 py-0 shadow-2xl outline backdrop-blur md:max-w-xl lg:max-w-4xl">
+      <div className="navbar w-full rounded-menubar bg-base-100/90 py-0 shadow-2xl backdrop-blur md:max-w-xl lg:max-w-4xl">
         <div className="navbar-start">
           <div className="dropdown">
             <div
@@ -31,7 +31,7 @@ export default function Navbar({ locale, routes }: NavbarProps) {
             Martin Jurran
           </a>
         </div>
-        <div className="navbar-center ml-10 hidden md:flex">
+        <div className="navbar-left ml-10 hidden md:flex">
           {routes.map((item, index) => (
             <nav key={index} className="menu menu-horizontal px-1">
               <a
@@ -46,8 +46,11 @@ export default function Navbar({ locale, routes }: NavbarProps) {
         </div>
 
         <div className="navbar-end h-10 scale-75 gap-3">
-          <LocaleSwitch locale={locale} />
-          <ThemeSwitch />
+        <a
+              className="btn btn-neutral md:btn-lg rounded-full btn-wide"
+            >
+              Say Hello
+            </a>
         </div>
       </div>
     </div>

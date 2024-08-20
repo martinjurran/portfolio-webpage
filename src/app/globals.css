@@ -14,6 +14,15 @@ body {
   background:#0a66c2;
 }
 
+.rounded-menubar {
+  border-radius:1rem;
+  outline: 1px solid gray;
+}
+
+.navbar-start {
+  width:auto;
+}
+
 @media only screen and (min-width: 768px) {
   :target {
     scroll-margin-top: 6rem;
