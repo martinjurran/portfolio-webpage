@@ -14,10 +14,9 @@ import { defaultLocale, localeKey } from "@/config";
 import { getTranslator } from "@/utils/localization";
 
 const navigationRoutes = [
-  { name: "About", href: "#about" },
+  { name: "About", href: "/#about" },
   { name: "Blog", href: "/blog" },
-  { name: "Projects", href: "#projects" },
-  { name: "Contact", href: "#contact" },
+  { name: "Contact", href: "/#contact" },
 ];
 
 export default async function Home({ params }: { params?: { locale: localeKey } }) {
