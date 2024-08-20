@@ -13,7 +13,8 @@
     "navigation": {
       "About": "About",
       "Projects": "Projects",
-      "Contact": "Contact"
+      "Contact": "Contact",
+      "Blog": "Blog"
     },
     "hero": {
       "Title": "Software Engineering & Machine Learning",
