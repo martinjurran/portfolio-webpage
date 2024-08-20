@@ -27,7 +27,7 @@ export default function Navbar({ locale, routes }: NavbarProps) {
               ))}
             </ul>
           </div>
-          <a href="#top" className="btn btn-ghost rounded-full text-lg font-semibold">
+          <a href="#top" className="text-lg font-semibold">
             Martin Jurran
           </a>
         </div>
@@ -47,6 +47,7 @@ export default function Navbar({ locale, routes }: NavbarProps) {
 
         <div className="navbar-end h-10 scale-75 gap-3">
         <a
+              href="#contact"
               className="btn btn-style-sayhello rounded-lg btn-neutral md:btn-lg"
             >
               Say Hello
